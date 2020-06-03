@@ -1,3 +1,9 @@
+
+edad = int(input("Ingresa por favor tu edad actual: "))
+promedio = float(input("Teclea el promedio: "))
+
+
+
 if edad < 6:
     print('Kinder')
     print('Tú no aplicas')
