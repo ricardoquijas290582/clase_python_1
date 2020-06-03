@@ -1,9 +1,9 @@
 nombre = input('Nombre? ')
 print("Me alegro de conocerle " + nombre)
 
-cal_1 = int(input("Ingresa calif 1: "))
-cal_2 = int(input("Ingresa calif 2: "))
-cal_3 = int(input("Ingresa calif 3: "))
+cal_1 = float(input("Ingresa calif 1: "))
+cal_2 = float(input("Ingresa calif 2: "))
+cal_3 = float(input("Ingresa calif 3: "))
 
 promedio = (cal_1 + cal_2 + cal_3) / 3
 
